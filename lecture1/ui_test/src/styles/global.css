@@ -1,0 +1,8 @@
+/* 색상과 폰트는 theme.js가 담당하므로 여기에는 MUI가 못 다루는 것만 둔다 */
+html {
+  scroll-behavior: smooth;
+}
+
+#root {
+  min-height: 100vh;
+}
